@@ -31,8 +31,8 @@ Me considero una persona:
 - **Gratitud:** Practico la gratitud, apreciando lo que tiene en lugar de enfocarse en lo que falta.
 - **Felixibilidad y adaptabilidad:** Adaptabilidad a diferentes situaciones y personas. Me siento comodo con el cambio y soy capaz de ajustar su comportamiento segun las circunstancias y las necesidades de los demas.
 ##### IDIOMAS
-- **ESPAÑOL:** Nativo
-- **INGLES:** Basico (A1)
+- **ESPAÑOL:** Nativo Nativo
+- **INGLES:** Basico (A2)
 ###### CONTACTO
 - **LINKEDIN:** *alvaro bahos*
 - **E-MAIL:** *alvarobahosc@gmail.com*
