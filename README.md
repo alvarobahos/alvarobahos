@@ -39,3 +39,4 @@ Me considero una persona:
 - **TELEFONO:** *3153340924*
 ---
 *Mi objetivo es compartir mis conocimientos y experiencias para aportar valor y generar conversaciones enriquecedoras. A traves del presente, busco crear un espacio donde se pueda aprender, reflexionar sobre diferentes temas y encontrar soluciones practicas a los retos que enfrentamos. Mi enfoque es siempre ofrecer contenido util, honesto y autentico, con la esperanza de que cada entrada inspire, informe y motive a perosnas a seguir creciendo y mejorando a sus propios caminos.*
+19/11/2024
